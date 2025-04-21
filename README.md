@@ -27,7 +27,8 @@ Onboarding new hires can be challenging—Tektube makes it easier by offering a 
 ## 🔐 Authentication Features
 
 Tektube implements production-grade authentication:
-- **Login Page** with full validation and error handling
+- **Login Page** with full validation and error handling  
+  ![Login Page](ScreenShots/Login_page.png)
 - **Forgot Password** functionality with OTP email verification
 - **Secure Password Reset** via OTP
 - **Signup Page** with complete validation for safe and smooth account creation
