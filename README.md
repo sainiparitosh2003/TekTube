@@ -30,8 +30,10 @@ Tektube implements production-grade authentication:
 - **Login Page** with full validation and error handling  
   ![Login Page](ScreenShots/Login_page.png)
 - **Forgot Password** functionality with OTP email verification
+   ![Forgot Password](ScreenShots/Forgot_password.png)
 - **Secure Password Reset** via OTP
 - **Signup Page** with complete validation for safe and smooth account creation
+    ![SignUp Page](ScreenShots/SignUp_page.png)
 - **Stateful login** using Redux to cache session and auth states
 
 ---
@@ -41,6 +43,7 @@ Tektube implements production-grade authentication:
 ### 🔸 Landing Page
 - Engaging homepage for first-time users
 - CTA for login and signup
+  ![Learning Page](ScreenShots/Learing_page.png)
 
 ### 🔸 Learning Page
 - **YouTube-inspired UI** for easy navigation
@@ -50,6 +53,7 @@ Tektube implements production-grade authentication:
 - **LinkedIn-style design**
 - Edit personal information, profile picture, and cover photo
 - View assigned projects and roles
+  ![Profile Page](ScreenShots/Profile_page)
 
 ---
 
